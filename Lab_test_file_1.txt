@@ -1,3 +1,1 @@
-Just added new line
-Added new line
-Added third line
+Rebased version
